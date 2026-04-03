@@ -1,6 +1,6 @@
 # SONIC-P-06-MOBILE BY LOWFRIEND
 ENG:
- SONIC P-06 MOBILE - Unofficial Android port of the fan game by ChaosX.
+SONIC P-06 MOBILE - Unofficial Android port of the fan game by ChaosX.
 
 -Performance Optimization: Adapted the game for mobile devices to ensure stable performance and FPS.
 
