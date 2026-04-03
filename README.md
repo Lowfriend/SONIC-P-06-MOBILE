@@ -8,5 +8,7 @@ SONIC P-06 MOBILE - Unofficial Android port of the fan game by ChaosX.
 
 -Input System: Developed and implemented custom touch controls (On-screen UI) from scratch.
 
+Port trailer - https://www.youtube.com/watch?v=crjt6Sth97Q
+
 <a href="https://ibb.co/VYhQtDzj"><img src="https://i.ibb.co/RTMB9Psv/03-04-2026-184902.jpg" alt="03-04-2026-184902" border="0"></a>
 
