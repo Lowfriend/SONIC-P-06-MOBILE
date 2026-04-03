@@ -17,3 +17,6 @@ SONIC P-06 MOBILE - Неофициальный Android-порт фан-игры 
 
 -Система ввода: Разработка сенсорного управления (UI) с нуля.
 
+
+[url=https://ibb.co/VYhQtDzj][img]https://i.ibb.co/RTMB9Psv/03-04-2026-184902.jpg[/img][/url]
+
