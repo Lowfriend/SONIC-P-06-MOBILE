@@ -10,7 +10,8 @@ SONIC P-06 MOBILE - Unofficial Android port of the fan game by ChaosX.
 
 
 *Note: This is an unofficial port made for educational purposes. All original game rights belong to ChaosX and SEGA.*
-  Port trailer - https://www.youtube.com/watch?v=crjt6Sth97Q
+
+Port trailer - https://www.youtube.com/watch?v=crjt6Sth97Q
 
 <a href="https://ibb.co/VYhQtDzj"><img src="https://i.ibb.co/RTMB9Psv/03-04-2026-184902.jpg" alt="03-04-2026-184902" border="0"></a>
 
